@@ -1,0 +1,1 @@
+Drossellog is a simple logfile analyzer in ruby. It was created because we were unhappy with the interfaces and functionality of other, already existing opensource logfile analyzers. We didn't want to extend the existing ones because we didn't liked their architecture either.
